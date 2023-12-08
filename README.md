@@ -11,6 +11,8 @@ Bem-vindo ao repositório do Curso de Design e Desenvolvimento Web! Esta é a p�
 - `index.html`: Página principal do site do Curso de Design e Desenvolvimento Web.
 - `styles.css`: Estilos CSS para proporcionar um design atraente.
 - `img/`: Diretório contendo as imagens do site.
+- - `README.md`: Documentação com as informações sobre o projeto.
+- `LICENSE`: licença.
 
 O Projeto foi desenvolvido com base no vídeo do youtube "How To Create A Website using HTML & CSS | Step-by-Step Tutorial - PRAROZ" 
 🔗 **Link do Vídeo:**

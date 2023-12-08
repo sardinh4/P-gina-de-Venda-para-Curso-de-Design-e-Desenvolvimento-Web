@@ -15,6 +15,7 @@ Bem-vindo ao repositório do Curso de Design e Desenvolvimento Web! Esta é a p�
 - `LICENSE`: licença.
 
 O Projeto foi desenvolvido com base no vídeo do youtube "How To Create A Website using HTML & CSS | Step-by-Step Tutorial - PRAROZ" 
+
 🔗 **Link do Vídeo:**
 - https://youtu.be/CQZxeoQeo5c
 

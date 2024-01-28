@@ -20,4 +20,4 @@ O Projeto foi desenvolvido com base no vídeo do youtube "How To Create A Websit
 - https://youtu.be/CQZxeoQeo5c
 
 🔗 **Link da Demo da Página:**
-- https://sardinh4.github.io/Pagina-de-Venda-para-Curso-de-Design-e-Desenvolvimento-Web/
+- https://sardinh4.github.io/primeiro-site/

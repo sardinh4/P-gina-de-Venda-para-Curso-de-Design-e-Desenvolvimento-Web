@@ -1,4 +1,4 @@
-# Pagina-de-Venda-para-Curso-de-Design-e-Desenvolvimento-Web
+# Primeiro Site (sem responsividade)
 Página de venda para Curso de Design e Desenvolvimento Web, criada com HTML e CSS.
 
 Bem-vindo ao repositório do Curso de Design e Desenvolvimento Web! Esta é a página web do nosso site de venda do curso, desenvolvida utilizando HTML e CSS. 
